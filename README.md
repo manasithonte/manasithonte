@@ -78,7 +78,6 @@ Research on semantic drift in multilingual NLP using Sentence-BERT and embedding
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manasithonte&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manasithonte&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 <p align="center">
