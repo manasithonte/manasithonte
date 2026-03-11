@@ -1,8 +1,11 @@
 # Hi, I am Manasi Thonte 👋
 
 🎓 Master's Applied Data Science — University of Southern California (GPA: 3.71/4.0)
+
 💻 Software Engineer · ML Engineer 
+
 📍 Los Angeles, CA · 📫 manasithonte@gmail.com
+
 🔍 Open to full-time SWE / MLE roles
 
 I build **AI-powered systems, scalable backend infrastructure, and production-grade ML pipelines**.
@@ -67,7 +70,6 @@ Research on semantic drift in multilingual NLP using Sentence-BERT and embedding
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manasithonte&show_icons=true&theme=default&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manasithonte&layout=compact&hide_border=true)
 
 ---
@@ -76,4 +78,4 @@ Research on semantic drift in multilingual NLP using Sentence-BERT and embedding
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-manasithonte.github.io-black?style=for-the-badge&logo=github)](https://manasithonte.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ManasiThonte-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manasithonte/)
-[![Email](https://img.shields.io/badge/Email-thonte@usc.edu-red?style=for-the-badge&logo=gmail)](mailto:manasithonte@gmail.com)
+[![Email](https://img.shields.io/badge/Email-manasithonte@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:manasithonte@gmail.com)
