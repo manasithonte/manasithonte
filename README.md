@@ -1,8 +1,6 @@
 # Hi, I'm Manasi Thonte 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=manasithonte&color=blue)
-![GitHub followers](https://img.shields.io/github/followers/manasithonte?style=social)
-![GitHub stars](https://img.shields.io/github/stars/manasithonte?style=social)
+
 
 🎓 MS Applied Data Science — University of Southern California  
 💻 Software Engineer | ML Engineer  
@@ -66,7 +64,7 @@ Tech: Python, NLP, Deep Learning
 
 # 📊 GitHub Stats
 
-![Manasi's GitHub stats](https://github-readme-stats.vercel.app/api?username=manasithonte&show_icons=true&theme=radical)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manasithonte&layout=compact)
 
@@ -80,4 +78,4 @@ https://manasithonte.github.io/Portfolio/
 
 # 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ManasiThonte-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ManasiThonte-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com](https://www.linkedin.com/in/manasithonte/))
