@@ -22,6 +22,13 @@ I build **AI-powered systems, developer tools, and scalable backend applications
 
 ---
 
+## 🏆 GitHub Achievements
+
+![Pull Shark](https://img.shields.io/badge/Achievement-Pull%20Shark-blue)
+![Starstruck](https://img.shields.io/badge/Achievement-Starstruck-yellow)
+
+
+
 # 🧠 Areas of Interest
 
 • AI Developer Tools  
