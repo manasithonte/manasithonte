@@ -6,7 +6,6 @@ Find out more about me & feel free to connect with me here:
 
 [![GitHub](https://img.shields.io/badge/manasithonte-black?style=flat-square&logo=github)](https://github.com/manasithonte)
 [![Email](https://img.shields.io/badge/manasithonte@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:manasithonte@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-Manasi_Thonte-blue?style=flat-square)](https://manasithonte.github.io/Images/Resume_.pdf)
 [![Portfolio](https://img.shields.io/badge/Portfolio-manasithonte.github.io-blueviolet?style=flat-square&logo=wordpress)](https://manasithonte.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ManasiThonte-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/manasithonte/)
 
