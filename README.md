@@ -1,6 +1,6 @@
 # Hi, I'm Manasi Thonte! Great to see you here! 👋
 
-I am Manasi Thonte, a Master's graduate in Applied Data Science from the [University of Southern California](https://www.usc.edu/) (GPA: 3.71/4.0), with a Bachelor's in Electronics & Telecommunication Engineering from [Pune Institute of Computer Technology](https://pict.edu/). I am passionate about building AI-powered systems and production-grade ML infrastructure. I have worked at AllyIn.ai as an ML Engineer and Software Engineer, and as a Research Assistant at USC Viterbi School of Engineering. I am always open to collaborating on innovative projects and ideas.
+I am Manasi Thonte, a Master's graduate in Applied Data Science from the [University of Southern California](https://www.usc.edu/) (GPA: 3.71/4.0), with a Bachelor's in Electronics & Telecommunication Engineering from [Pune Institute of Computer Technology](https://pict.edu/). I am passionate about building AI-powered systems and production-grade ML infrastructure. I have worked at AllyIn.ai as an ML Engineer and Software Engineer, and as a Software Engineer at USC Viterbi School of Engineering. I am always open to collaborating on innovative projects and ideas.
 
 Find out more about me & feel free to connect with me here:
 
